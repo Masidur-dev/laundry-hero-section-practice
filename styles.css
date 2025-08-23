@@ -5,6 +5,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
+    overflow: hidden;
+   
     
 }
 
@@ -117,4 +119,5 @@ button:hover{
        width: 500px;
     }
 }
+
 
